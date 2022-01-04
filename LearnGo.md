@@ -1,7 +1,6 @@
 学习项
 
 - pk-config
-
 - go micro 微服务
 - cgo(学习中)
 - 反向代理ngix
@@ -13,5 +12,7 @@
 - k8s
 - git
 - go 反射(reflect)
-- go(validator)
+- go(validator) 校验器
 - 设计模式
+- go汇编(选学)
+- beego框架(多学习一些框架)
